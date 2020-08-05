@@ -1,7 +1,7 @@
 # IBM Data Science Capstone Project  
 
 In this project I focused on using location data to explore real world problems by using machine learning and data analysis.  
-This project consists of:
+This project consists of:  
 -- A mini project analyzing neighborhoods in Toronto.  
 -- The Jupyter Notebook file containing the code.  
 -- A full 20 page report in PDF and DOCX format.  
